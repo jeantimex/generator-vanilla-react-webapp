@@ -1,0 +1,31 @@
+{
+  "name": "generator-vanilla-react-webapp",
+  "version": "1.0.0",
+  "description": "This Yeoman generator helps you scaffold your next web application with Vanilla React and Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeantimex/generator-vanilla-react-webapp.git"
+  },
+  "keywords": [
+    "Vanilla",
+    "React",
+    "JavaScript",
+    "Webpack",
+    "Yeoman",
+    "Generator"
+  ],
+  "author": "jeantimex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeantimex/generator-vanilla-react-webapp/issues"
+  },
+  "homepage": "https://github.com/jeantimex/generator-vanilla-react-webapp#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0",
+    "yosay": "^2.0.2"
+  }
+}
